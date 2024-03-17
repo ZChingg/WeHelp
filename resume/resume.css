@@ -1,0 +1,44 @@
+.frame{
+    display:flex;
+    justify-content: center;
+    padding:15px;
+}
+
+.chinese-name{
+    font-size:25px;font-weight:bold;
+    margin-left:20px;text-align:left;
+}
+
+.english-name{
+    font-size:25px;font-weight:bold;
+    margin-bottom:15px;text-align:left;
+}
+
+.item{
+    font-size:14px;
+}
+
+.question{
+    margin:0 auto;
+    width:80%;
+    padding:10px;
+    background-color: #3FAAB1;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+.answer{
+    margin:0 auto;
+    width:80%;
+    padding:10px;
+    background-color:white;
+    font-size:14px;
+    text-align:left;
+    margin-bottom:20px;
+}
+
+.thanku{
+    margin:0 auto;
+    width:80%;
+    text-align:center;
+}
